@@ -4,4 +4,4 @@ Image enhancement via image histogram equalization, initial demo works https://c
 
 The Binder does not work correctly (I'm working on it and in progess) 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atiehmk/T4_new/main?labpath=T4-2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atiehmk/T4_new/main?urlpath=%2Fvoila%2Frender%2FT4_new.ipynb)
