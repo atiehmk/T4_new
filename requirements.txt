@@ -1,6 +1,0 @@
-numpy==1.21.5
-watermark==2.3.0
-cv2==4.1.2
-PIL==7.1.2
-ipywidgets==7.6.5
-matplotlib==3.2.2
