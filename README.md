@@ -4,4 +4,4 @@ Image enhancement via image histogram equalization. Initial demo and explanation
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atiehmk/T4_new/HEAD?labpath=%2Fvoila%2Frender%2FT4final.ipynb)
+
